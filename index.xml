@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikola Ljepava - Backend Developer</title>
+    <link>https://NikolaLjepava.github.io/</link>
+    <description>Recent content on Nikola Ljepava - Backend Developer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://NikolaLjepava.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://NikolaLjepava.github.io/projects/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://NikolaLjepava.github.io/projects/</guid>
+      <description>&lt;h2 id=&#34;my-work-so-far-&#34;&gt;My Work (so far :)&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;wallet-service-active-development&#34;&gt;Wallet Service (Active Development)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Backend API for player wallets and transactions&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Runtime:&lt;/strong&gt; Node.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Language:&lt;/strong&gt; TypeScript&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Database:&lt;/strong&gt; PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Database Client:&lt;/strong&gt; pg-promise&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;API:&lt;/strong&gt; REST&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&#xA;This is an active learning project where I&amp;rsquo;m building a production-ready wallet service with Node.js, TypeScript, and PostgreSQL.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; In progress - &lt;a href=&#34;https://github.com/NikolaLjepava/wallet-service&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;blog-api&#34;&gt;Blog API&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;A technical challenge project demonstrating REST API design with AWS Architecture&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech Stack:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontend:&lt;/strong&gt; Angular (TypeScript)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend:&lt;/strong&gt; Node.js with Express&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Database:&lt;/strong&gt; PostgreSQL&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security:&lt;/strong&gt; JWT Authentication&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;API:&lt;/strong&gt; REST&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
