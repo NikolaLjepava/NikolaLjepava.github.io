@@ -1,0 +1,33 @@
+baseURL = "https://NikolaLjepava.github.io/"
+languageCode = "en-us"
+title = "Nikola Ljepava - Backend Developer"
+theme = "hello-friend-ng"
+
+[params]
+  homeSubtitle = "I'm a backend developer specializing in building scalable systems with Node.js, TypeScript, and PostgreSQL."
+  customHeader = "custom-header.html"
+  enableThemeToggle = true
+  defaultAppearance = "dark"
+  disableReadOtherPosts = false
+
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/NikolaLjepava"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/nikola-ljepava-847291222/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "This Is Me"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "These Are My Projects"
+    url = "/projects"
+    weight = 2
