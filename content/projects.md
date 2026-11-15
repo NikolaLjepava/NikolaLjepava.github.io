@@ -10,18 +10,23 @@ type: "page"
 
 ### Wallet Service (Active Development)
 
-**Backend API for player wallets and transactions**
+**Full-stack wallet management system for players, wallets, sessions and transactions.**
 
 **Tech Stack:**
 
-- **Runtime:** Node.js
-- **Language:** TypeScript
+- **Backend Runtime:** Node.js
+- **Backend Language:** TypeScript
+- **Backend Framework:** Express.js
+  = **Frontend Framework:** Next.js (React)
 - **Database:** PostgreSQL
 - **Database Client:** pg-promise
 - **API:** REST
+- **Testing:** Jest
+- **Styling:** Tailwind CSS
 
 **Description:**
-This is an active learning project where I'm building a production-ready wallet service with Node.js, TypeScript, and PostgreSQL.
+An active portfolio project focused on building a production-oriented wallet management system. The backend provides a REST API for managing players, wallets, gaming sessions, and financial transactions, with an emphasis on database consistency, transaction safety, and handling concurrent operations.
+The project will also include a Next.js admin dashboard, providing a user interface for monitoring wallet balances, managing players and sessions, and viewing and filtering transaction history.
 
 **Status:** In progress - [View on GitHub](https://github.com/NikolaLjepava/wallet-service)
 
