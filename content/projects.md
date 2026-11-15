@@ -51,9 +51,7 @@ The project will also include a Next.js admin dashboard, providing a user interf
 - Posts with nested comments
 - RESTful API design patterns
 
-**Status:** Finished but not hosted - [View on GitHub](https://github.com/NikolaLjepava/devleet_blog)
-
-Built as a technical assessment showcasing backend architecture skills
+**Status:** Completed - [View on GitHub](https://github.com/NikolaLjepava/devleet_blog)
 
 **---**
 

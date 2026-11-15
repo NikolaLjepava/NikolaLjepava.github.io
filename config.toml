@@ -4,12 +4,13 @@ title = "Nikola Ljepava - Backend Developer"
 theme = "hello-friend-ng"
 
 [params]
-  homeSubtitle = "I'm a backend developer specializing in building scalable systems with Node.js, TypeScript, and PostgreSQL."
+  homeSubtitle = "I'm a Software Engineer specializing in building scalable backend systems with Node.js, TypeScript, and PostgreSQL. I also have experience with Next.js and React, focused on expanding my skills across the full stack. I believe strong engineering fundamentals are transferable across languages, frameworks, and technologies."
   customHeader = "custom-header.html"
   enableThemeToggle = false
   defaultAppearance = "dark"
   disableReadOtherPosts = false
   customJS = ["/js/dark-mode.js"]
+  customCSS = ["css/custom.css"]
 
 
 [[params.social]]
