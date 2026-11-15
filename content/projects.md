@@ -17,7 +17,7 @@ type: "page"
 - **Backend Runtime:** Node.js
 - **Backend Language:** TypeScript
 - **Backend Framework:** Express.js
-  = **Frontend Framework:** Next.js (React)
+- **Frontend Framework:** Next.js (React)
 - **Database:** PostgreSQL
 - **Database Client:** pg-promise
 - **API:** REST
