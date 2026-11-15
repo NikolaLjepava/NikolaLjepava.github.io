@@ -6,9 +6,10 @@ theme = "hello-friend-ng"
 [params]
   homeSubtitle = "I'm a backend developer specializing in building scalable systems with Node.js, TypeScript, and PostgreSQL."
   customHeader = "custom-header.html"
-  enableThemeToggle = true
+  enableThemeToggle = false
   defaultAppearance = "dark"
   disableReadOtherPosts = false
+  customJS = ["/js/dark-mode.js"]
 
 
 [[params.social]]
